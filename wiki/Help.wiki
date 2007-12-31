@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= 叽歪de插件使用帮助 =
+
+叽歪de徽章
+
+
+= 插入代码 =
+
+<ul><li>接下来给出的是简约代码 （其实就是少了最下面那行字）：  </li></ul>  <pre class="prettyprint"><span class="pun">&lt;</span><span class="tag">div</span><span class="pln"> </span><span class="atn">style</span><span class="pun">=</span><span class="atv">"</span><span class="str">width:176px;text-align:center</span><span class="atv">"</span><span class="pun">&gt;</span><span class="pln"><br>&nbsp; </span><span class="pun">&lt;</span><span class="tag">embed</span><span class="pln"> </span><span class="atn">src</span><span class="pun">=</span><span class="atv">"http://fanfou-badge.googlecode.com/files/fanfou_badge.swf"</span><span class="pln"> </span><span class="atn">flashvars</span><span class="pun">=</span><span class="atv">"color1=0x[HEX颜色代码]&amp;type=user&amp;id=[你的饭否用户ID]"</span><span class="pln"> </span><span class="atn">quality</span><span class="pun">=</span><span class="atv">"high"</span><span class="pln"> </span><span class="atn">width</span><span class="pun">=</span><span class="atv">"176"</span><span class="pln"> </span><span class="atn">height</span><span class="pun">=</span><span class="atv">"176"</span><span class="pln"> </span><span class="atn">name</span><span class="pun">=</span><span class="atv">"fanfou_badge"</span><span class="pln"> </span><span class="atn">align</span><span class="pun">=</span><span class="atv">"middle"</span><span class="pln"> </span><span class="atn">allowScriptAccess</span><span class="pun">=</span><span class="atv">"always"</span><span class="pln"> </span><span class="atn">wmode</span><span class="pun">=</span><span class="atv">"transparent"</span><span class="pln"> </span><span class="atn">type</span><span class="pun">=</span><span class="atv">"application/x-shockwave-flash"</span><span class="pln"> </span><span class="atn">pluginspage</span><span class="pun">=</span><span class="atv">"http://www.macromedia.com/go/getflashplayer"</span><span class="pun">&gt;</span><span class="pln"><br></span><span class="pun">&lt;/</span><span class="tag">div</span><span class="pun">&gt;</span><span class="pln"> </span></pre>
