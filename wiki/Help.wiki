@@ -1,15 +1,17 @@
-#summary One-sentence summary of this page.
 #labels Featured
+叽歪de徽章http://code.google.com/p/jiwai/
+Project Home
 
 = 叽歪de插件使用帮助 =
 
-叽歪de徽章
+叽歪de徽章使用帮助
 
 
 = 插入代码 =
+{{{
 
-<pre class="prettyprint">&lt;div style=&quot;width:176px;text-align:center&quot;&gt;
+<div style="width:176px;text-align:center">
+<embed src="http://jiwai.googlecode.com/files/jiwai_badge.swf" flashvars="color1=0x【HEX颜色代码】&type=user&id=【你的叽歪用户名】&tou=【头部显示的文字】" quality="high" width="176" height="176" name="jiwai_badge" align="middle" allowScriptAccess="always" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</div>
 
-  &lt;embed src=&quot;http://fanfou-badge.googlecode.com/files/fanfou_badge.swf&quot; flashvars=&quot;color1=0x[HEX颜色代码]&amp;type=user&amp;id=[你的饭否用户ID]&quot; quality=&quot;high&quot; width=&quot;176&quot; height=&quot;176&quot; name=&quot;fanfou_badge&quot; align=&quot;middle&quot; allowScriptAccess=&quot;always&quot; wmode=&quot;transparent&quot; type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;
-
-&lt;/div&gt; </pre>
+}}}
