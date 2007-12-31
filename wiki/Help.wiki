@@ -1,6 +1,5 @@
 #labels Featured
-叽歪de徽章http://code.google.com/p/jiwai/
-Project Home
+叽歪de:http://jiwai.de
 
 = 叽歪de插件使用帮助 =
 
@@ -8,6 +7,7 @@ Project Home
 
 
 = 插入代码 =
+
 {{{
 
 <div style="width:176px;text-align:center">
