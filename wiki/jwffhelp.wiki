@@ -5,6 +5,4 @@
 
  * 将解压后的文件放入你的firefox插件目录下，形如：C:\Program Files\Mozilla Firefox\extensions\
 
- * 然后启动firefox在工具->附加软件，jiwaitoolbar的选项中添加你的用户名和密码。
-
  * *注意:*文件解压后只要一个jwff@chaotic-joy.spaces.live.com目录
