@@ -1,5 +1,6 @@
+#labels Featured
 = 叽歪deFirefoxToolbar插件 =
 
 下载[http://jiwai.googlecode.com/files/jwff%40chaotic-joy.spaces.live.com.rar 这里]
 
-将解压后的文件放入
+将解压后的文件放入你的firefox插件目录下，形如：C:\Program Files\Mozilla Firefox\extensions\
