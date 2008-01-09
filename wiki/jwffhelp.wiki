@@ -1,3 +1,5 @@
 = 叽歪deFirefoxToolbar插件 =
 
-将
+下载[http://jiwai.googlecode.com/files/jwff%40chaotic-joy.spaces.live.com.rar 这里]
+
+将解压后的文件放入
