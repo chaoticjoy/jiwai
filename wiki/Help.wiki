@@ -13,6 +13,12 @@
 
 }}}
 
+ * *QQ空间用户*
+
+{{{
+http://jiwai.googlecode.com/files/jiwai_badge2.swf?id=【你的叽歪用户名】&tou=【头部显示的文字】&col=0x【HEX颜色代码】
+}}}
+
  * *说明：【HEX颜色代码】【你的叽歪用户名】【头部显示的文字】分别要替换相应的内容*
 
  # 【HEX颜色代码】：写入相应的6位十六进制颜色代码，可以在原始叽歪的flash上调好自己的颜色代码粘贴过来。（或者用[http://jiwai.googlecode.com/files/color.htm 这个]）
