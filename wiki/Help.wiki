@@ -25,3 +25,4 @@ http://jiwai.googlecode.com/files/jiwai_badge2.swf?id=【你的叽歪用户名�
  # 【你的叽歪用户名】：就是登陆叽歪de的用户名
  # 【头部显示的文字】：插件的头顶你想显示的文字 
  # 插件效果可以看看[http://chaoticjoy.yo2.cn/go/612774.html 这里]
+ # QQ空间用户效果[http://user.qzone.qq.com/78029597 这里]
