@@ -68,5 +68,7 @@ http://jiwai.googlecode.com/files/friends_gadget.swf?msgcolor1=0xFFFFCC&msgcolor
 
  * 地址：
 {{{
-
+http://jiwai.googlecode.com/files/user_gadget.swf?【flashvars】
 }}}
+
+ * 关于【flashvars】的说明与上面相类似，只是要在[http://jiwai.de/wo/gadget/flash 原版]下面的"叽歪de你自己"生成代码，然后复制。
