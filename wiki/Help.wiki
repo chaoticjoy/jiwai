@@ -27,7 +27,7 @@ http://jiwai.googlecode.com/files/multi.swf?qq=user&id=【你的叽歪用户名�
  # 插件效果可以看看[http://chaoticjoy.yo2.cn/go/612774.html 这里]
  # QQ空间用户效果[http://user.qzone.qq.com/78029597 这里]
 
-= 叽歪原版支持qq空间 =
+= 叽歪de原版支持qq空间 =
 
 由于有些用户要在qq空间显示关注好友的信息，修改了qq原版插件。
 
@@ -50,4 +50,4 @@ flashvars="msgcolor1=0xFFFFCC&msgcolor2=0xFFFFFF&bgcolor=0xC3E169&userid=27405&m
 http://jiwai.googlecode.com/files/friends_gadget.swf?msgcolor1=0xFFFFCC&msgcolor2=0xFFFFFF&bgcolor=0xC3E169&userid=27405&msgcount=20&textcolor1=0x000000&textcolor2=0xcc0000&thumb=48&swfwidth=180&swfheight=300
 }}}
 
- * 另外在qq空间中显示可能有些不正常，用户根据自己实际情况调整刚才复制的引号中最后swfwidth=xxx，swfheight=xxx的数值，经测试xxx在500左右，根据你的实际情况调整吧，呵呵。
+ * 另外在qq空间中大小显示可能有些不正常，用户根据自己实际情况调整刚才复制的引号中最后swfwidth=xxx，swfheight=xxx的数值，经测试xxx在500左右，根据你的实际情况调整吧，呵呵。
