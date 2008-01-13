@@ -31,7 +31,7 @@ http://jiwai.googlecode.com/files/multi.swf?qq=user&id=【你的叽歪用户名�
 
 
 
-= 叽歪de原版支持qq空间 =
+= 叽歪de原版插件支持qq空间 =
 
  * 和原版一样，分“叽歪de你和你的朋友们”和“叽歪de你自己”两种代码：
  
