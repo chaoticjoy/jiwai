@@ -29,6 +29,8 @@ http://jiwai.googlecode.com/files/multi.swf?qq=user&id=【你的叽歪用户名�
 
 = 叽歪de原版支持qq空间 =
  
+== 叽歪de你和你的朋友们 ==
+
  * 显示自己和关注好友的信息，地址如下：
 
 {{{
@@ -57,3 +59,10 @@ http://jiwai.googlecode.com/files/friends_gadget.swf?msgcolor1=0xFFFFCC&msgcolor
 }}}
 
  * 另外在qq空间中大小显示可能有些不正常，用户根据自己实际情况调整刚才复制的引号中最后swfwidth=xxx，swfheight=xxx的数值，经测试xxx在500左右，根据你的实际情况调整吧，呵呵。
+
+== 叽歪de你自己==
+
+ * 地址：
+{{{
+
+}}}
