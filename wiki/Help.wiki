@@ -1,7 +1,7 @@
 #labels Featured
 [http://jiwai.de 叽歪de]
 
-= 叽歪de插件使用帮助 =
+= 叽歪de徽章插件使用帮助 =
 
  * *插入的代码*
 
