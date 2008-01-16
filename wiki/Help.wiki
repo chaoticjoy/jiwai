@@ -8,7 +8,7 @@
 {{{
 
 <div style="width:176px;text-align:center">
-<embed src="http://jiwai.googlecode.com/files/multi.swf" flashvars="color1=0x【HEX颜色代码】&type=user&id=【你的叽歪用户名】&tou=【头部显示的文字】" quality="high" width="176" height="176" name="jiwai_badge" align="middle" allowScriptAccess="always" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+<embed src="http://jiwai.googlecode.com/files/gadget.swf" flashvars="color1=0x【HEX颜色代码】&type=user&id=【你的叽歪用户名】&tou=【头部显示的文字】" quality="high" width="176" height="176" name="jiwai_badge" align="middle" allowScriptAccess="always" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 </div>
 
 }}}
@@ -16,7 +16,7 @@
  * *QQ空间用户*
 
 {{{
-http://jiwai.googlecode.com/files/multi.swf?qq=user&id=【你的叽歪用户名】&tou=【头部显示的文字】&col=0x【HEX颜色代码】
+http://jiwai.googlecode.com/files/gadget.swf?qq=user&id=【你的叽歪用户名】&tou=【头部显示的文字】&col=0x【HEX颜色代码】
 }}}
 
  * *说明：【HEX颜色代码】【你的叽歪用户名】【头部显示的文字】分别要替换相应的内容*
