@@ -3,4 +3,4 @@
 
 此小工具用于live.com和space中，可以显示自己的消息、自己和好友的消息。
 
-点击
+点击[http://gallery.live.com/LiveItemDetail.aspx?li=0e41fc97-7bee-430b-b7b2-6d25688e2e6d 这里]安装小工具。
