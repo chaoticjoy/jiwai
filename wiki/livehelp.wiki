@@ -1,0 +1,6 @@
+#labels Featured
+= 叽歪de Live Space 小工具 =
+
+此小工具用于live.com和space中，可以显示自己的消息、自己和好友的消息。
+
+点击
