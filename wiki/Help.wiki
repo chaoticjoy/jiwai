@@ -1,9 +1,9 @@
 #labels Featured
 [http://jiwai.de 叽歪de]
-由于存放问题，如插件不能正常显示，请自行将下面产生的代码中的
-http://jiwai.googlecode.com/files /gadget.swf
+ * *由于存放问题，如插件不能正常显示，请自行将下面产生的代码中的
+{{{http://jiwai.googlecode.com/files /gadget.swf}}}
 替换为
-http://comeon.newlove.cn/File/Store/651/fanfou_badge.swf。现在临时存放于那里，如果哪位能提供存放地址更好，请跟我联系，谢谢!
+{{{http://comeon.newlove.cn/File/Store/651/fanfou_badge.swf}}}现在临时存放于那里，如果哪位能提供存放地址更好，请跟我联系，谢谢! * *
 = 叽歪de徽章插件使用帮助 =
 
  * *插入的代码*
