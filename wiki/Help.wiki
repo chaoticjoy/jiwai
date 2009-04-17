@@ -6,7 +6,7 @@
 
 {{{http://jiwai.googlecode.com/files /gadget.swf}}}
 替换为
-{{{http://comeon.newlove.cn/File/Store/651/fanfou_badge.swf}}}
+{{{http://comeon.newlove.cn/File/Store/651/gadget.swf}}}
 
 现在临时存放于那里，如果哪位能提供存放地址更好，请跟我联系，谢谢!
 
