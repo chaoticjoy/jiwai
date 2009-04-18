@@ -6,9 +6,13 @@
 
 {{{http://jiwai.googlecode.com/files /gadget.swf}}}
 替换为
-{{{http://comeon.newlove.cn/File/Store/651/gadget.swf}}}
+{{{http://comeon.newlove.cn/File/Store/651/gadget.swf}}}、
+{{{http://www.fileupyours.com/files/242116/fanfou_badge.swf }}}
+或者{{{http://media-001.yo2cdn.com/wp-content/uploads/114/11472/2007/12/jiwai_badge.swf}}}
 
-现在临时存放于那里，如果哪位能提供存放地址更好，请跟我联系，谢谢!
+
+上述地址都存放了，但是都不是很稳定。现在临时存放于那里，如果哪位能提供存放地址更好，请跟我联系。
+
 
 
 = 叽歪de徽章插件使用帮助 =
