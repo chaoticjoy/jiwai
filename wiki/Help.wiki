@@ -26,8 +26,8 @@ http://chaoticjoy.appspot.com/swf/badge.swf?qq=user&id=【你的叽歪用户名�
  # 【HEX颜色代码】：写入相应的6位十六进制颜色代码，可以在原始叽歪的flash上调好自己的颜色代码粘贴过来。（或者用[http://ythwfg.bay.livefilestore.com/y1pXurkzVtB5g1yLYuDp45SbqlAB4ayYVsY7OKpCXxodZZt2SKOUoFi3zG3q6Abw68SZHv-vQpGsvd3pVQ1M4yRqpDpmDQ_ZiZ-/colorsel.htm 这个]）
  # 【你的叽歪用户名】：就是登陆叽歪de的用户名
  # 【头部显示的文字】：插件的头顶你想显示的文字 
- # 插件效果可以看看[http://chaoticjoy.yo2.cn/go/612774.html 这里]
- # QQ空间用户效果[http://user.qzone.qq.com/78029597 这里]
+ # 插件效果可以看看[http://chaoticjoy.yo2.cn/go/612774.html 这里]（那里的插件已经失效，懒得更新了）
+ # QQ空间用户效果[http://user.qzone.qq.com/78029597 这里]（和这里给出的略有不同）
 
 ======================================================================================================================================================
 
