@@ -2,7 +2,7 @@
 = 叽歪de徽章插件已经恢复正常 2009-07-23更新 =
 [http://jiwai.de 叽歪de]
 
-你可以下载http://jiwai.googlecode.com/files/badge2.swf后自己放在自己的服务器上使用，也可以下面用我提供的。
+你可以[http://jiwai.googlecode.com/files/badge2.swf 下载]后自己放在自己的服务器上使用，也可以下面用我提供的。
 
 如有问题可以[http://jiwai.de/chaoticjoy/ 联系我]
 = 叽歪de徽章插件使用帮助 =
