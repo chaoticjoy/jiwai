@@ -1,24 +1,6 @@
 #labels Featured
-= 代码有问题了，发现没有多少人用，就不修改了，想用的单独和我联系吧 =
+= 插件已经恢复正常 2009-07-23更新 =
 [http://jiwai.de 叽歪de]
-= 以下作废，原先沿用twitter的json的方式在叽歪行不通，我已经用xml重新写好了，不过看起来没有人用，需要用的人单独和我联系吧 =
-==========================================================================================
-由于存放问题，如插件不能正常显示，请自行将下面产生的代码中的
-
-
-{{{http://jiwai.googlecode.com/files /gadget.swf}}}
-
-替换为
-{{{http://comeon.newlove.cn/File/Store/651/gadget.swf}}}、
-
-{{{http://www.fileupyours.com/files/242116/fanfou_badge.swf }}}
-
-或者{{{http://media-001.yo2cdn.com/wp-content/uploads/114/11472/2007/12/jiwai_badge.swf}}}
-
-
-上述地址都存放了，但是都不是很稳定。现在临时存放于那里，如果哪位能提供存放地址更好，请跟我联系。
-
-
 
 
 = 叽歪de徽章插件使用帮助 =
@@ -28,7 +10,7 @@
 {{{
 
 <div style="width:176px;text-align:center">
-<embed src="http://jiwai.googlecode.com/files/gadget.swf" flashvars="color1=0x【HEX颜色代码】&type=user&id=【你的叽歪用户名】&tou=【头部显示的文字】" quality="high" width="176" height="176" name="jiwai_badge" align="middle" allowScriptAccess="always" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+<embed src="http://chaoticjoy.appspot.com/swf/badge.swf" flashvars="color1=0x【HEX颜色代码】&type=user&id=【你的叽歪用户名】&tou=【头部显示的文字】" quality="high" width="176" height="176" name="jiwai_badge" align="middle" allowScriptAccess="always" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 </div>
 
 }}}
@@ -36,7 +18,7 @@
  * *QQ空间用户*
 
 {{{
-http://jiwai.googlecode.com/files/gadget.swf?qq=user&id=【你的叽歪用户名】&tou=【头部显示的文字】&col=0x【HEX颜色代码】
+http://chaoticjoy.appspot.com/swf/badge.swf?qq=user&id=【你的叽歪用户名】&tou=【头部显示的文字】&col=0x【HEX颜色代码】
 }}}
 
  * *说明：【HEX颜色代码】【你的叽歪用户名】【头部显示的文字】分别要替换相应的内容*
