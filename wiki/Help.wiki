@@ -2,9 +2,7 @@
 = 叽歪de徽章插件已经恢复正常 2009-07-23更新 =
 [http://jiwai.de 叽歪de]
 
-你可以[http://jiwai.googlecode.com/files/badge2.swf 下载]后自己放在自己的服务器上使用，也可以用下面我提供的。
 
-如有问题可以[http://jiwai.de/chaoticjoy/ 联系我]
 = 叽歪de徽章插件使用帮助 =
 
  * *插入的代码*
@@ -29,6 +27,8 @@ http://chaoticjoy.appspot.com/swf/badge.swf?qq=user&id=【你的叽歪用户名�
  # 【你的叽歪用户名】：就是登陆叽歪de的用户名
  # 【头部显示的文字】：插件的头顶你想显示的文字 
  # 插件效果可以看看[http://chaoticjoy.yo2.cn/go/612774.html 这里]
+ # 你可以[http://jiwai.googlecode.com/files/badge2.swf 下载]后自己放在自己的服务器上使用，也可以用下面我提供的。
+ # 如有问题可以[http://jiwai.de/chaoticjoy/ 联系我]
  
 
 ======================================================================================================================================================
