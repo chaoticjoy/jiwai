@@ -1,0 +1,79 @@
+# 叽歪de徽章插件已经恢复正常 2009-07-23更新 #
+[叽歪de](http://jiwai.de)
+
+
+# 叽歪de徽章插件使用帮助 #
+
+  * **插入的代码**
+
+```
+
+<div style="width:176px;text-align:center">
+<embed src="http://chaoticjoy.appspot.com/swf/badge.swf" flashvars="color1=0x【HEX颜色代码】&type=user&id=【你的叽歪用户名】&tou=【头部显示的文字】" quality="high" width="176" height="176" name="jiwai_badge" align="middle" allowScriptAccess="always" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+</div>
+
+```
+
+  * **QQ空间用户**
+
+```
+http://chaoticjoy.appspot.com/swf/badge.swf?qq=user&id=【你的叽歪用户名】&tou=【头部显示的文字】&col=0x【HEX颜色代码】
+```
+
+  * **说明：【HEX颜色代码】【你的叽歪用户名】【头部显示的文字】分别要替换相应的内容**
+
+  1. 【HEX颜色代码】：写入相应的6位十六进制颜色代码，可以在原始叽歪的flash上调好自己的颜色代码粘贴过来。（或者用[这个](http://ythwfg.bay.livefilestore.com/y1pXurkzVtB5g1yLYuDp45SbqlAB4ayYVsY7OKpCXxodZZt2SKOUoFi3zG3q6Abw68SZHv-vQpGsvd3pVQ1M4yRqpDpmDQ_ZiZ-/colorsel.htm)）
+  1. 【你的叽歪用户名】：就是登陆叽歪de的用户名
+  1. 【头部显示的文字】：插件的头顶你想显示的文字
+  1. 插件效果可以看看[这里](http://chaoticjoy.yo2.cn/go/612774.html)
+  1. 你可以[下载](http://jiwai.googlecode.com/files/badge2.swf)后自己放在自己的服务器上使用，也可以用上面我提供的。
+  1. 如有问题可以[联系我](http://jiwai.de/chaoticjoy/)
+
+
+
+
+# 以下部分请移步至原版使用吧，我懒得更新了，这里主要更新徽章 #
+
+# 叽歪de原版插件支持qq空间 #
+
+  * 和原版一样，分“叽歪de你和你的朋友们”和“叽歪de你自己”两种代码：
+
+## 叽歪de你和你的朋友们 ##
+
+  * 显示自己和关注好友的信息，地址如下：
+
+```
+http://jiwai.googlecode.com/files/friends_gadget.swf?【flashvars】
+```
+
+  * 只显示自己的信息，地址如下：
+
+```
+http://jiwai.googlecode.com/files/user_gadget2.swf?【flashvars】
+```
+
+  * **说明：**
+  * 要在[原版](http://jiwai.de/wo/gadget/flash)中调整自己的颜色等参数，调整完后，在生成代码中找到类似这样的一句：
+
+```
+
+flashvars="msgcolor1=0xFFFFCC&msgcolor2=0xFFFFFF&bgcolor=0xC3E169&userid=27405&msgcount=20&textcolor1=0x000000&textcolor2=0xcc0000&thumb=48&swfwidth=180&swfheight=300" 
+
+```
+
+  * 将引号里的内容复制，替换上面的【flashvars】就可以了，比如我生成的就是：
+
+```
+http://jiwai.googlecode.com/files/friends_gadget.swf?msgcolor1=0xFFFFCC&msgcolor2=0xFFFFFF&bgcolor=0xC3E169&userid=27405&msgcount=20&textcolor1=0x000000&textcolor2=0xcc0000&thumb=48&swfwidth=180&swfheight=300
+```
+
+  * 另外在qq空间中大小显示可能有些不正常，用户根据自己实际情况调整刚才复制的引号中最后swfwidth=xxx，swfheight=xxx的数值，经测试xxx在500左右，根据你的实际情况调整吧，呵呵。
+
+## 叽歪de你自己 ##
+
+  * 地址：
+```
+http://jiwai.googlecode.com/files/user_gadget.swf?【flashvars】
+```
+
+  * 关于【flashvars】的说明与上面相类似，只是要在[原版](http://jiwai.de/wo/gadget/flash)页面下面的"叽歪de你自己"生成代码，然后复制。

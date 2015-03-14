@@ -1,0 +1,9 @@
+# 叽歪deFirefoxToolbar插件 #
+
+  * 下载[这里](http://jiwai.googlecode.com/files/jwff%40chaotic-joy.spaces.live.com.rar)
+
+  * 将解压后的文件放入你的firefox插件目录下，形如：C:\Program Files\Mozilla Firefox\extensions\
+
+  * **注意:**文件解压后只要一个jwff@chaotic-joy.spaces.live.com目录
+
+  * 效果看[这里](http://www.yupoo.com/photos/view?id=ff808081173a7031011744de8bd253e9)
